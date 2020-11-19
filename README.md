@@ -6,15 +6,15 @@
 <a href="https://linkedin.com/in/ibrahim-al-hote-6baa6a93">
   <img align="left" alt="Ibrahim's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/IBRAH1M">
+<a href="https://github.com/ibr9him">
   <img align="left" alt="Ibrahim's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <br/>
 <br/>
 
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=IBRAH1M&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+<a href="https://github.com/ibr9him">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibr9him&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
 
 <br/>
@@ -30,13 +30,13 @@
 - ⚡ Fun fact: ...
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IBRAH1M&label=Views&color=blue&style=plastic" alt="IBRAH1M" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibr9him&label=Views&color=blue&style=plastic" alt="ibr9him" /> </p>
 
 <br/>
 <br/>
 
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBRAH1M&theme=light&hide_langs_below=1" />
+<a href="https://github.com/ibr9him">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibr9him&theme=light&hide_langs_below=1" />
 </a>
 
 <br/>
